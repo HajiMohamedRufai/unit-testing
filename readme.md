@@ -1,7 +1,13 @@
-# Unittesting
+# Unit Testing in Python
+## Unit testing Frameworks
+1. unittest
+2. nose2
+3. pytest
+
 ## Automated testing
 Is the execution of your **test plan** by a script instead of a human. (Manual testing)
 
+## Terminologies
 ### Test Plan
 It is the parts of your application you want to test IN ORDER
 
