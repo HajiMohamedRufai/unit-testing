@@ -86,8 +86,8 @@ Additional data related to the test case execution status.
 
 
 ## REFERENCE
-https://realpython.com/python-testing/
-CODEGEEX By Zhipu - VsCode Extension
+- https://realpython.com/python-testing/
+- CODEGEEX By Zhipu - VsCode Extension
 
 
 <p style="text-align: right;">© Haji Rufai</p>
