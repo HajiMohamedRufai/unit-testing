@@ -90,5 +90,4 @@ Additional data related to the test case execution status.
 - CODEGEEX By Zhipu - VsCode Extension
 
 
-
-© Haji Rufai
+<p style="text-align: right;">© Haji Rufai</p>
